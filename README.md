@@ -19,15 +19,6 @@ A fullstack web application that allows users to generate QR codes dynamically f
 - **Styling**: Material UI / Custom CSS
 - **Hosting**: Locally or can be deployed to platforms like Vercel, Railway, Render
 
-## 🗂️ Folder Structure
-
-QRCode-Generator/
-├── QR Code Generator/ # Frontend Layer(React + Vite)
-├── server/ # Backend Layer (Express)
-├── public/ # Generated QR images
-├── .gitignore
-├── README.md
-
 ## ⚙️ Setup Instructions
 
 ### 1. Clone the repository
